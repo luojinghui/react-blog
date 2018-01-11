@@ -34,7 +34,7 @@ const AsyncInfo = Loadable({
 
 const App = () => (
   <Provider store={store}>
-    <Router>
+    <Router basename="react-blog/">
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo"/>
@@ -51,9 +51,9 @@ const App = () => (
         <div />
 
         <Switch>
-          <Route path="/" exact component={AsyncHome}/>
-          <Route path="/info/:id" component={AsyncInfo}/>
-          <Redirect to="/"/>
+          <Route path="/build/" exact component={AsyncHome}/>
+          <Route path="/build/info/:id" component={AsyncInfo}/>
+          <Redirect to="/build/"/>
         </Switch>
       </div>
     </Router>
