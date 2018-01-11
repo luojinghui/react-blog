@@ -51,9 +51,9 @@ const App = () => (
         <div />
 
         <Switch>
-          <Route path="/build/" exact component={AsyncHome}/>
-          <Route path="/build/info/:id" component={AsyncInfo}/>
-          <Redirect to="/build/"/>
+          <Route path="/" exact component={AsyncHome}/>
+          <Route path="/info/:id" component={AsyncInfo}/>
+          <Redirect to="/"/>
         </Switch>
       </div>
     </Router>
