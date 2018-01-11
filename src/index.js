@@ -45,6 +45,8 @@ const App = () => (
         </p>
         <h1>hello world</h1>
         <h1>random num: {Math.random() * 100}</h1>
+        <a href="http://luojh.me">go to home</a>
+        <div />
         <Link to="/">go to home</Link>
         <div />
         <Link to="/info/666">go to info</Link>
