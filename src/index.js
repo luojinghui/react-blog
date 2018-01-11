@@ -34,7 +34,7 @@ const AsyncInfo = Loadable({
 
 const App = () => (
   <Provider store={store}>
-    <Router basename="react-blog/build">
+    <Router>
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo"/>
