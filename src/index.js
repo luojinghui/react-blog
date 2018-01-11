@@ -9,7 +9,7 @@ import {store} from './tools/store';
 
 import registerServiceWorker from './registerServiceWorker';
 import {
-  HashRouter,
+  BrowserRouter as Router,
   Route,
   Link,
   Switch,
@@ -34,7 +34,7 @@ const AsyncInfo = Loadable({
 
 const App = () => (
   <Provider store={store}>
-    <HashRouter>
+    <Router>
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo"/>
@@ -54,7 +54,7 @@ const App = () => (
           <Redirect to="/"/>
         </Switch>
       </div>
-    </HashRouter>
+    </Router>
   </Provider>
 );
 
