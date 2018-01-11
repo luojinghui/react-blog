@@ -40,14 +40,10 @@ const App = () => (
           <img src={logo} className="App-logo" alt="logo"/>
           <h1 className="App-title">Welcome to React</h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-        <h1>hello world</h1>
         <h1>random num: {Math.random() * 100}</h1>
-        <a href="http://luojh.me">go to home</a>
+        <a href="http://luojh.me">进入博客首页</a>
         <div />
-        <Link to="/">go to home</Link>
+        <Link to="/">go to 此页面主页home</Link>
         <div />
         <Link to="/info/666">go to info</Link>
         <div />
