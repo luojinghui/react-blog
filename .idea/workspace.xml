@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbb335b0-5631-483d-8fcc-4b76bedc8b29" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.c17080f1.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.c17080f1.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.8caa429b.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/0.8caa429b.chunk.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/1.aab9a932.chunk.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/1.aab9a932.chunk.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.4435bb66.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.4435bb66.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/logo.5d5d9eef.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/st.8a87fa56.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -138,19 +150,6 @@
             <path>
               <item name="jnexpert-cra" type="b2602c69:ProjectViewProjectNode" />
               <item name="jnexpert-cra" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnexpert-cra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jnexpert-cra" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jnexpert-cra" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jnexpert-cra" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -194,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515580539003</updated>
-      <workItem from="1515580542212" duration="5126000" />
+      <workItem from="1515580542212" duration="5152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5126000" />
+    <option name="totallyTimeSpent" value="5152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1009" extended-state="6" />
@@ -305,7 +304,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding />
         </state>
       </provider>
